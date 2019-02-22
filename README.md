@@ -1,8 +1,8 @@
 # ChancePro-CancerMaster8
 A program to aid in the determination of usefulness of screenings
 
-Question:
-  Do you smoke tobacco?
+# Question:
+  ## Do you smoke tobacco?
     y: what is your age?
        ---n >= 55?
               y:
