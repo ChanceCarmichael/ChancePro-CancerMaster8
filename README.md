@@ -3,7 +3,8 @@ A program to aid in the determination of usefulness of screenings
 
 # Question:
   ## Do you smoke tobacco?
-    ### Yes
+  
+   ### Yes
     what is your age?
        ---n >= 55?
               y:
@@ -17,7 +18,7 @@ A program to aid in the determination of usefulness of screenings
        ---80 <= n?
               y:
               n: unreachable state...
-    n: EXIT
+    ### No
     
     
     
