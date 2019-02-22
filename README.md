@@ -3,7 +3,8 @@ A program to aid in the determination of usefulness of screenings
 
 # Question:
   ## Do you smoke tobacco?
-    y: what is your age?
+    ### Yes
+    what is your age?
        ---n >= 55?
               y:
               n: test to see if below case...
